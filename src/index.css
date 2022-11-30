@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #23252C;
+  color: #FFFFFF; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Pic{
+  align-items: center;
+  width: 317px;
+  margin-left: auto;
+  margin-top: 44px;
+}
+
